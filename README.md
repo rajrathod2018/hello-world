@@ -1,3 +1,4 @@
 # hello-world
 First program
-I am undertadning the gitHub
+I am understadning the gitHub.
+This is another revision.
